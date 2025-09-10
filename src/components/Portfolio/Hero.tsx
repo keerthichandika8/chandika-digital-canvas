@@ -24,7 +24,7 @@ const Hero = () => {
       {/* Content Overlay */}
       <div className="relative z-10 container mx-auto px-6 flex items-center justify-between">
         {/* Main Content - Centered but slightly lower */}
-        <div className="flex-1 text-center mt-72 animate-fade-in">
+        <div className="flex-1 text-center mt-96 animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-light text-silver mb-6 tracking-tight">
             Hi, I'm <span className="text-silver-light font-normal">Chandika Chandra Keerthi</span>
           </h1>
