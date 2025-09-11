@@ -17,7 +17,7 @@ const About = () => {
               <p className="text-lg text-silver-dark leading-relaxed">
                 I am <span className="text-silver-light font-medium">Chandika Chandra Keerthi</span>, 
                 a BTech 2nd year student in Information Technology at Seshadri Rao Gudlavalleru Engineering College 
-                (Roll No: 24481A1201).
+                (Roll No: 24481A1244).
               </p>
               
               <div className="space-y-3">
